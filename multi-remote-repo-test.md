@@ -28,3 +28,4 @@ git push all [branch]
 ## Reference
 
 [Multiple GIT Remote Repositories](https://jigarius.com/blog/multiple-git-remote-repositories)
+[Pushing to Multiple Git Repos](https://gist.github.com/rvl/c3f156e117e22a25f242)
